@@ -1,0 +1,16 @@
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\bin\Debug\StudentPortal.exe.config
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\bin\Debug\StudentPortal.exe
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\bin\Debug\StudentPortal.pdb
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\obj\Debug\StudentPortal.csproj.AssemblyReference.cache
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\obj\Debug\StudentPortal.Properties.Resources.resources
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\obj\Debug\StudentPortal.csproj.GenerateResource.cache
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\obj\Debug\StudentPortal.csproj.CoreCompileInputs.cache
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\obj\Debug\StudentPortal.exe
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\obj\Debug\StudentPortal.pdb
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\obj\Debug\StudentPortal.Form1.resources
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\obj\Debug\StudentP.09900977.Up2Date
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\bin\Debug\Json.Net.dll
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\bin\Debug\StudentDatabase.mdf
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\bin\Debug\StudentDatabase_log.ldf
